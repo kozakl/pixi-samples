@@ -1,0 +1,28 @@
+{"frames": {
+
+"arial50.png":
+{
+	"frame": {"x":2,"y":2,"w":188,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":188,"h":188},
+	"sourceSize": {"w":192,"h":192}
+},
+"logo.png":
+{
+	"frame": {"x":192,"y":2,"w":220,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":84},
+	"sourceSize": {"w":220,"h":84}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA5555",
+	"size": {"w":414,"h":192},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fcc38698edd02bffcbddb145cefb3bf5$"
+}
+}

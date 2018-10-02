@@ -1,0 +1,36 @@
+{"frames": {
+
+"santa1.png":
+{
+	"frame": {"x":2,"y":522,"w":186,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":10,"w":186,"h":258},
+	"sourceSize": {"w":274,"h":274}
+},
+"santa2.png":
+{
+	"frame": {"x":2,"y":262,"w":186,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":10,"w":186,"h":258},
+	"sourceSize": {"w":274,"h":274}
+},
+"santa3.png":
+{
+	"frame": {"x":2,"y":2,"w":186,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":10,"w":186,"h":258},
+	"sourceSize": {"w":274,"h":274}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA5555",
+	"size": {"w":190,"h":785},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4c7a2780e9a7fca354f3a45cdca5a175$"
+}
+}

@@ -1,0 +1,28 @@
+{"frames": {
+
+"logo.png":
+{
+	"frame": {"x":775,"y":2,"w":771,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":771,"h":294},
+	"sourceSize": {"w":771,"h":294}
+},
+"logo2.png":
+{
+	"frame": {"x":2,"y":2,"w":771,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":771,"h":294},
+	"sourceSize": {"w":771,"h":294}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA5555",
+	"size": {"w":1548,"h":299},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3b86034dd509d21bc530e209150c77d6$"
+}
+}

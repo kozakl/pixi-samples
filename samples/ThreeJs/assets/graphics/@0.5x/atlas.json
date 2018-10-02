@@ -1,0 +1,20 @@
+{"frames": {
+
+"logo.png":
+{
+	"frame": {"x":2,"y":2,"w":220,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":84},
+	"sourceSize": {"w":220,"h":84}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA5555",
+	"size": {"w":224,"h":89},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2c003394b033d8746e20ed06d829c374$"
+}
+}
